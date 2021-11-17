@@ -7,7 +7,7 @@ Fast variable selection via elastic posterior sphere to control False Discovery 
 
 The followling demonstration is also in the "example.R" script.
 
-#### Data download and preprocessing
+### Data download and preprocessing
 
 ```R
 rm(list = ls())
